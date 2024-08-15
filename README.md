@@ -16,5 +16,8 @@
 ### Hit Trace System
 ##### https://github.com/chaintree7/UE5_HitTraceSystem
 
-### Crosshair System
+### Crosshair System (Coming soon)
 ##### https://github.com/chaintree7/UE5_CrosshairSystem
+
+### Slot System (Coming soon)
+##### https://github.com/chaintree7/UE5_SlotSystem
