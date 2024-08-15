@@ -3,7 +3,7 @@
 #### It's similar to GAS in usage, but simpler and 100% Blueprint
 #### 
 ##### Video Showcase : https://www.youtube.com/watch?v=N1j9ykT8HFQ&list=PL3wXnfaYKI8TlPXE58Ge8-ICZf3SN9pQT
-
+##### Discord : https://discord.gg/FrBMHSJGkM
 # Open Source Components (MIT License)
 #### Some tool components in AbilitySystem are open source, all components are independent and can be used in any project.
 ***
